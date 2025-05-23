@@ -43,7 +43,7 @@ This application serves as a mock backend for a card management system. It's bui
 ### Clone the Repository
 
  ```bash
- git clone <YOUR_GITHUB_REPO_URL_HERE>
+ git clone https://github.com/SwamiCosta/spring-boot-card-app.git
  cd spring-boot-card-app
  ```
 
